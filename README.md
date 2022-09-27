@@ -1,2 +1,2 @@
 # rsschool-cv
-## [cv link](https://rikdefo.github.io/rsschool-cv/cv)
+## [cv link html](https://rikdefo.github.io/rsschool-cv/)
